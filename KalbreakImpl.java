@@ -1,0 +1,3 @@
+Class Kalbreak implements KakbreakInt {
+
+}
