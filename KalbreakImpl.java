@@ -1,5 +1,3 @@
 Class Kalbreak implements KakbreakInt {
-    Kalbreak() {
-        
-    }
+    Kalbreak() {}
 }
