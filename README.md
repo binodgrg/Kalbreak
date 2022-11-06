@@ -1,3 +1,3 @@
 # Kalbreak scorer
 
-How to use it
+How to use it and its goona be fun
