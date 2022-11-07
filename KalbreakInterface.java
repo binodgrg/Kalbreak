@@ -5,5 +5,5 @@ Class Kalbreak{
 
     public getScore(){}
 
-    public doSomething() {}
+    public setScore() {}
 }
