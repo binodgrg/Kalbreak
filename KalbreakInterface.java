@@ -4,4 +4,6 @@ Class Kalbreak{
     public setUsers(){}
 
     public getScore(){}
+
+    public doSomething() {}
 }
